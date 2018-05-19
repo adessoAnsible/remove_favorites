@@ -3,3 +3,4 @@
   apt:
     name: ubuntu-web-launchers
     state: absent
+  become: yes
