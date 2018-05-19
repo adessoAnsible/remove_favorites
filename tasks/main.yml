@@ -1,5 +1,5 @@
 ---
-- name: remove amazone
+- name: remove amazon
   apt:
     name: ubuntu-web-launchers
     state: absent
